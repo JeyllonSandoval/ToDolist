@@ -133,7 +133,7 @@ form button h4 {
     color: #fff;
     background: linear-gradient(-45deg, #200035 10%, rgb(72, 2, 105), #160052, #020068, #200035 88%);
     background-size: 400% 400%;
-    animation: gradient 40s ease infinite;
+    animation: gradient 10s ease infinite;
 }
 
 @keyframes gradient {
