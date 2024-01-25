@@ -67,7 +67,7 @@ form button {
     transition: all 0.1s ease;
     background: linear-gradient(-45deg, #fff 15%,#ffffff 10%, #7700ff 20%, #9300a0 30%, #7700ff 20%, #9300a0 10%);
     background-size: 800% 800%;
-    animation: gradient 12s ease infinite;
+    animation: gradient 4s ease infinite;
     display: flex;
     justify-content: center;
     align-items: center;
