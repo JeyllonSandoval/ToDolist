@@ -46,7 +46,7 @@ const printTasks = () => {
     if(Object.values(tasks).length === 0) {
         task_list.innerHTML = `
         <section class="alert-empty">
-            <h2>No hay tareas pendientes. Puedes agregar nuevas tareas</h2>
+            <h2>There are no pending tasks. You can add new tasks</h2>
         </section>
         `;
         return;
